@@ -21,6 +21,19 @@ This repository studies annual earnings of workers in the Pakistan Social and Li
 
 ---
 
+## Data files
+
+The assignment requires the two CSV files below as the machine-readable source data for the scripts. CSV is plain text, so GitHub previews it as rows and columns of raw values. That is expected; the files are not damaged or incomplete.
+
+| File | Records | Columns | One row represents |
+|---|---:|---:|---|
+| [Household data](data/pslm_hh_subset.csv) | 19,556 | 109 | One household |
+| [Person data](data/pslm_person_subset.csv) | 107,367 | 47 | One person |
+
+To browse the data in Excel, download a CSV and use **Data → From Text/CSV**. Choose **UTF-8** encoding and a **comma** delimiter, then load it as a table. Keep the CSV files as the inputs to the reproducible scripts.
+
+---
+
 ## Key results
 
 | Statistic | Value |

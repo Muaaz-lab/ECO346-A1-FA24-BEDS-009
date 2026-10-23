@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#222}.tick{font-size:14px}.caption{font-size:12px;fill:#444}</style>
+<text x="125" y="37" font-size="22" font-weight="bold">Half of earners make under Rs 240,000; the top tenth make Rs 660,000 or more</text>
+<line x1="125" y1="482.00" x2="922" y2="482.00" stroke="#e8e8e8"/>
+<text class="tick" x="113" y="487.00" text-anchor="end">0.00</text>
+<line x1="125" y1="381.00" x2="922" y2="381.00" stroke="#e8e8e8"/>
+<text class="tick" x="113" y="386.00" text-anchor="end">0.50</text>
+<line x1="125" y1="280.00" x2="922" y2="280.00" stroke="#e8e8e8"/>
+<text class="tick" x="113" y="285.00" text-anchor="end">0.99</text>
+<line x1="125" y1="179.00" x2="922" y2="179.00" stroke="#e8e8e8"/>
+<text class="tick" x="113" y="184.00" text-anchor="end">1.49</text>
+<line x1="125" y1="78.00" x2="922" y2="78.00" stroke="#e8e8e8"/>
+<text class="tick" x="113" y="83.00" text-anchor="end">1.99</text>
+<line x1="125.00" y1="78" x2="125.00" y2="482" stroke="#f1f1f1"/>
+<text class="tick" x="125.00" y="507" text-anchor="middle">Rs 10,000</text>
+<line x1="390.67" y1="78" x2="390.67" y2="482" stroke="#f1f1f1"/>
+<text class="tick" x="390.67" y="507" text-anchor="middle">Rs 100,000</text>
+<line x1="656.33" y1="78" x2="656.33" y2="482" stroke="#f1f1f1"/>
+<text class="tick" x="656.33" y="507" text-anchor="middle">Rs 1,000,000</text>
+<line x1="922.00" y1="78" x2="922.00" y2="482" stroke="#f1f1f1"/>
+<text class="tick" x="922.00" y="507" text-anchor="middle">Rs 10,000,000</text>
+<rect x="125.60" y="478.83" width="25.37" height="3.17" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="152.17" y="477.64" width="25.37" height="4.36" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="178.73" y="477.41" width="25.37" height="4.59" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="205.30" y="469.34" width="25.37" height="12.66" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="231.87" y="475.50" width="25.37" height="6.50" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="258.43" y="465.99" width="25.37" height="16.01" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="285.00" y="454.68" width="25.37" height="27.32" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="311.57" y="443.64" width="25.37" height="38.36" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="338.13" y="448.81" width="25.37" height="33.19" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="364.70" y="416.25" width="25.37" height="65.75" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="391.27" y="380.09" width="25.37" height="101.91" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="417.83" y="344.87" width="25.37" height="137.13" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="444.40" y="204.99" width="25.37" height="277.01" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="470.97" y="156.19" width="25.37" height="325.81" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="497.53" y="210.11" width="25.37" height="271.89" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="524.10" y="282.96" width="25.37" height="199.04" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="550.67" y="309.96" width="25.37" height="172.04" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="577.23" y="364.24" width="25.37" height="117.76" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="603.80" y="404.82" width="25.37" height="77.18" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="630.37" y="430.26" width="25.37" height="51.74" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="656.93" y="450.41" width="25.37" height="31.59" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="683.50" y="464.06" width="25.37" height="17.94" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="710.07" y="468.24" width="25.37" height="13.76" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="736.63" y="471.75" width="25.37" height="10.25" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="763.20" y="477.12" width="25.37" height="4.88" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="789.77" y="479.83" width="25.37" height="2.17" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="816.33" y="479.07" width="25.37" height="2.93" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="842.90" y="480.86" width="25.37" height="1.14" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="869.47" y="481.06" width="25.37" height="0.94" fill="#888" stroke="white" stroke-width="1"/>
+<rect x="896.03" y="479.55" width="25.37" height="2.45" fill="#888" stroke="white" stroke-width="1"/>
+<line x1="491.68" y1="78" x2="491.68" y2="482" stroke="#444" stroke-dasharray="7 5" stroke-width="1.5"/>
+<text x="483.68" y="102" text-anchor="end" font-size="13" font-weight="bold">Median Rs 240,000</text>
+<line x1="608.39" y1="78" x2="608.39" y2="482" stroke="#444" stroke-dasharray="7 5" stroke-width="1.5"/>
+<text x="616.39" y="102" text-anchor="start" font-size="13" font-weight="bold">90th percentile Rs 660,000</text>
+<text x="523.50" y="530" text-anchor="middle" font-size="16">Annual earnings (log scale)</text>
+<text transform="translate(28 280.0) rotate(-90)" text-anchor="middle" font-size="15">Density per log10 unit</text>
+<text class="caption" x="125" y="562">Source: PSLM 2019-20. Earners aged 15-64 with annual earnings &gt; 0 in variant 1 (n = 3768), weighted by hhweight.</text>
+<text class="caption" x="125" y="582">25 earners outside Rs 10,000-10,000,000 are excluded from the plotted range.</text>
+</svg>
